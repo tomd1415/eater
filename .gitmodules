@@ -1,0 +1,3 @@
+[submodule "network/pico_LCD_Display"]
+	path = network/pico_LCD_Display
+	url = https://github.com/tomd1415/pico_LCD_Display
